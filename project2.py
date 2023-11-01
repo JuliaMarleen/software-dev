@@ -1,6 +1,6 @@
-print("Hello")
+# print("Hello")
 
-print("__name__ value: ", __name__)
+# print("__name__ value: ", __name__)
 
 
 def calculation(a, b):
